@@ -1,0 +1,20 @@
+#taskInput {
+  width: 500px;
+  height: 30px;
+  font-size: xx-large;
+}
+
+#taskList {
+  font-size: xx-large;
+  margin-top: 20px;
+  list-style-type: none;
+  padding-left: 0;
+}
+.checked {
+  text-decoration: line-through;
+  color: #888;
+}
+
+#taskButton {
+  height: 30px;
+}
